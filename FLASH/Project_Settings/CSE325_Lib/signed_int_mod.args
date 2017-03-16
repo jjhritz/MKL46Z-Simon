@@ -1,0 +1,14 @@
+-mcpu=cortex-m0
+-mthumb
+-mfloat-abi=soft
+-g3
+-gdwarf-2
+-gstrict-dwarf
+-x assembler-with-cpp
+-nostdinc
+-I"D:/Users/User/Documents/CSE 325/workspace/p04/Project_Headers"
+-Wall
+-Wextra
+-Werror
+-c
+-fmessage-length=0
